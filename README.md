@@ -4,4 +4,4 @@
  - Run the .bat file
  - Allow the admin priveledges when it asks
  - Wait a little bit
- - ssh to the computer's IP adress and WHOOP! there it is
+ - ssh to the computer's IP address and WHOOP! there it is
